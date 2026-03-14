@@ -6,19 +6,19 @@ I use **Claude Code (CLI)** as my primary development tool, and have built syste
 
 ### Tech Stack
 
-**Backend:** Java, Spring Boot, Node.js, REST API
-**Frontend:** React, Next.js (App Router / RSC), TypeScript, Tailwind CSS
-**Database:** PostgreSQL, Prisma ORM
-**Infra:** Vercel, Docker, Linux (WSL2), GitHub Actions
-**AI Tools:** Claude Code (CLAUDE.md / Hooks / subagents for quality control)
+- **Backend:** Java, Spring Boot, Node.js, REST API
+- **Frontend:** React, Next.js (App Router / RSC), TypeScript, Tailwind CSS
+- **Database:** PostgreSQL, Prisma ORM
+- **Infra:** Vercel, Docker, Linux (WSL2), GitHub Actions
+- **AI Tools:** Claude Code (CLAUDE.md / Hooks / subagents for quality control)
 
 ### Projects
 
 | Repository | Description |
 |-----------|-------------|
 | [spring-boot-api-starter](https://github.com/omitsu-dev/spring-boot-api-starter) | Spring Boot 3 + JWT + PostgreSQL REST API |
-| [nextjs-auth-starter](https://github.com/omitsu-dev/nextjs-auth-starter) | Next.js 15 + Auth.js v5 + Prisma authentication |
-| [nextjs-i18n-starter](https://github.com/omitsu-dev/nextjs-i18n-starter) | Next.js 15 + next-intl v4 multilingual starter |
+| [nextjs-auth-starter](https://github.com/omitsu-dev/nextjs-auth-starter) | Next.js 16 + Auth.js v5 + Prisma authentication |
+| [nextjs-i18n-starter](https://github.com/omitsu-dev/nextjs-i18n-starter) | Next.js 16 + next-intl v4 multilingual starter |
 | [mdx-blog-pipeline](https://github.com/omitsu-dev/mdx-blog-pipeline) | MDX + rehype/remark + custom article linter |
 | [ogp-generator](https://github.com/omitsu-dev/ogp-generator) | @vercel/og dynamic OGP image generation API |
 | [ai-code-review-hooks](https://github.com/omitsu-dev/ai-code-review-hooks) | Claude Code Hooks for automated quality checks |
