@@ -29,6 +29,7 @@ I use **Claude Code (CLI)** as my primary development tool, and have built syste
 ### Portfolio
 
 **[32blog.com](https://32blog.com)** — Next.js 16 / TypeScript / 3 languages (JA/EN/ES) / 120+ articles
+
 Migrated a 10-year WordPress site to Next.js + Vercel for multilingual support and edge computing. Solo design, development, content, and operations.
 
 ### Links
