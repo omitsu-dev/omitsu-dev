@@ -46,13 +46,16 @@ I use **Claude Code (CLI)** as my primary development tool, and have built syste
 | [ai-code-review-hooks](https://github.com/omitsu-dev/ai-code-review-hooks) | Claude Code Hooks for automated quality checks |
 | [claude-code-rules](https://github.com/omitsu-dev/claude-code-rules) | CLAUDE.md / rules / commands template collection |
 | [n8n-workflows](https://github.com/omitsu-dev/n8n-workflows) | Production-ready n8n workflow templates |
+| [ffmpeg-quick](https://github.com/omitsu-dev/ffmpeg-quick) | FFmpeg preset CLI for common video tasks |
 | [rtsp-hls-dashboard](https://github.com/omitsu-dev/rtsp-hls-dashboard) | RTSP to HLS surveillance camera dashboard |
 
 ---
 
 ### Portfolio
 
-**[32blog.com](https://32blog.com)** — Next.js 16 / TypeScript / 3 languages (JA/EN/ES) / 120+ articles
+**[32blog.com](https://32blog.com)** — Next.js 16 / TypeScript / 3 languages (JA/EN/ES) / 80+ articles
+
+Includes an [FFmpeg Command Generator](https://32blog.com/en/tools/ffmpeg-command-generator) and other interactive developer tools.
 
 Migrated a 10-year WordPress site to Next.js + Vercel for multilingual support and edge computing. Solo design, development, content, and operations.
 
